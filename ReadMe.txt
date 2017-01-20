@@ -31,5 +31,6 @@ Other notes:
 AppWizard uses "TODO:" to indicate parts of the source code you
 should add to or customize.
 
+tools: VC++6.0
 
 /////////////////////////////////////////////////////////////////////////////
